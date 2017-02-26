@@ -2,7 +2,7 @@
 
 ## Project Name
 
-ATM Terminal App
+Calculator App
 
 ## Description
 
