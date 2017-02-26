@@ -26,6 +26,8 @@ Features:
 - return the result
 - If 42, tell the user the meaning of life
 
+![alt tag](https://github.com/divijm/Calculator/blob/master/images/calculator_app.png)
+
 ## Authors
 Divij Mehra
 
