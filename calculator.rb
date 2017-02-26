@@ -32,7 +32,7 @@ loop do
   puts "Hey there - I am a calcultor! Give me two numbers to begin with please..."
   x, y = gets.chomp.split.map(&:to_i)
 
-  puts "Do you want to add, subtract or mutliple these two numbers?"
+  puts "Do you want to add, subtract or mutliply these two numbers?"
   answer = gets.chomp.downcase
 
   # add
