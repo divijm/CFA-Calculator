@@ -26,7 +26,7 @@ Features:
 - return the result
 - If 42, tell the user the meaning of life
 
-![alt tag](https://github.com/divijm/Calculator/blob/master/images/calculator_app.png)
+![imgur](http://i.imgur.com/7TwTC7J.png)
 
 ## Authors
 Divij Mehra
@@ -34,4 +34,4 @@ Divij Mehra
 Mentorship and insight was sought from Trent, Jamie, Peter and other peer students.
 
 ## Contact Info
-Reach out to me via GitHub and email (divij.mehra.16@gmail.com)
+Reach out to me via GitHub or via email (divij.mehra.16@gmail.com)
